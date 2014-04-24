@@ -1,0 +1,75 @@
+body {
+	padding: 0;
+	margin: 0;
+	text-align:center;
+	font-size: 18px;
+	font-family: "敺株�甇��擃�","Microsoft JhengHei","Helvetica Neue",Helvetica,Arial,sans-serif;
+	background-image:url(http://subtlepatterns.com/patterns/food.png); 
+	background-position: initial initial; 
+	background-repeat: initial initial;
+}
+
+.wrapper{
+   width:1000px;
+   padding: 1em;
+   margin: 0 auto;
+   border-radius:0.5em;
+   box-shadow: rgb(189, 189, 189) 0px 10px 10px 10px;
+   background-image: url(http://subtlepatterns.com/patterns/squared_metal.png) ; 
+   background-position: initial initial;  
+   background-repeat: initial initial;
+   box-sizing:border-box;
+}
+
+
+img {
+	border-radius:0.7em;
+	width: 100%;
+}
+
+h1{
+   	margin: 0 auto;
+	font-size: 22px;
+}
+
+.hobbyimg{
+	height: 165px ;
+}
+
+.schoolimg{
+	height: 235px ;
+}
+
+.movieimg{
+	height: 156px;
+}
+
+.nopadding {
+	padding: 0;
+}
+
+.min4 {
+	width: 218px !important;
+}
+
+.min3 {
+	width: 298px !important;
+}
+
+.min2 {
+	width: 458px !important;
+}
+
+.banner {
+	margin-bottom: 30px;
+}
+
+.list{
+	background-image: url(http://subtlepatterns.com/patterns/giftly.png); 
+	background-position: initial initial; 
+	background-repeat: initial initial;
+}
+
+.list p{
+	font-size: 20px;
+}
